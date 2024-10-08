@@ -3,4 +3,4 @@
 > Project Usage	: Pygame(Python)
 ---
 > Project Name	: MAZE <br>
-> Project Usage	: Pygame(Python)cd
+> Project Usage	: C
