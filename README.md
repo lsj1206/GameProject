@@ -10,6 +10,7 @@
 - Library: Pygame
 - Type: 2D Mini Game
 - Development: lsj1206
+- 2022.03 - 2022.05
 
 ## How to Run
 
